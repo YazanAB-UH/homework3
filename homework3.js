@@ -1,11 +1,4 @@
-/*
-  Program name: homework3.js
-  Author: Antigravity (Assistant)
-  Date created: April 18, 2026
-  Description: Comprehensive validation and UI logic for Homework 3.
-               Handles advanced field checking, dynamic error messages,
-               and the conditional submission flow.
-*/
+
 
 // Initial State
 let errorCount = 0;
